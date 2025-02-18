@@ -1,6 +1,6 @@
 site_name: Fukuro
 site_url: https://docs.fukuro.me
-
+docs_dir: src
 nav:
   - Home: index.md
   - Others:

@@ -1,0 +1,46 @@
+site_name: Fukuro
+site_url: https://docs.fukuro.me
+
+nav:
+  - Home: index.md
+  - Others:
+    - Privacy Policy: privacy.md
+
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/favicon.png
+
+  features:
+    - navigation.sections
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: brown
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: brown
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: brown
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption

@@ -5,4 +5,4 @@ dotenv: ['.env.taskfile']
 tasks:
   build:
     cmds:
-      - poetry run mkdocs build -d docs
+      - poetry run mkdocs build -d dist

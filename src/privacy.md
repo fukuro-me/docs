@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Fukuro ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Chrome extension ("the Extension"). By using the Extension, you agree to the collection and use of information in accordance with this policy.
+Fukurou ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Chrome extension ("the Extension"). By using the Extension, you agree to the collection and use of information in accordance with this policy.
 
 ## Information We Collect
 
@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: fukuro.app@gmail.com
+Email: fukurou.app@gmail.com

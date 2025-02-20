@@ -1,4 +1,4 @@
-# Fukuro
+# Fukurou
 
 <figure markdown="span">
   ![Intro](images/intro.png){width="450"}
@@ -8,8 +8,8 @@
 
 ---
 
-## What is Fukuro?
+## What is Fukurou?
 
-Fukuro is an efficient and intuitive AI translation tool designed specifically for Chrome users, enabling you to easily comprehend foreign content wherever you are.
+Fukurou is an efficient and intuitive AI translation tool designed specifically for Chrome users, enabling you to easily comprehend foreign content wherever you are.
 
-With Fukuro, simply open the Chrome sidebar and select any text on a webpage; the AI will instantly translate it into your specified language. Whether it's news, technical documents, social media posts, or academic research, Fukuro ensures you receive smooth and accurate translations without the need for manual copy and paste.
+With Fukurou, simply open the Chrome sidebar and select any text on a webpage; the AI will instantly translate it into your specified language. Whether it's news, technical documents, social media posts, or academic research, Fukurou ensures you receive smooth and accurate translations without the need for manual copy and paste.
